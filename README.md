@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SeanXU1123
+- 👋 Hi, I’m @seanxu-k
 - 👀 I’m interested in Java.
 - 🌱 I’m currently learning machine learning at HKU.
 <!--- 
