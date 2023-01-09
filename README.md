@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @seanxu-k
+- 👋 Hi, I’m Sean XU
 - 👀 I’m interested in Java.
-- 🌱 I’m currently learning machine learning at HKU.
+- 🌱 I’m currently learning computer science at HKU.
 <!--- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
