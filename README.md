@@ -1,11 +1,21 @@
-- 👋 Hi, I’m Sean XU
-- 👀 I’m interested in Java.
-- 🌱 I’m currently learning computer science at HKU.
-<!--- 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there 👋
 
+My name is Sean XU, and I'm a postgraduate student at HKU. I am passionate about Artificial Intelligence.
 
-SeanXU1123/SeanXU1123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔭 Currently working on:
+
+- Graduation Project about E-Coupon
+- Research Programme about Few-Shot Learning
+
+## 🌱 I'm currently learning:
+
+- Natural Language Learning
+
+## 📫 How to reach me:
+
+- Email: seanxu[at]connect[dot]hku[dot]hk
+
+## ⚡ Fun fact:
+
+I used to be a software development engineer, but now I want to explore new worlds.
+
