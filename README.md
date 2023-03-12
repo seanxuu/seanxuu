@@ -17,6 +17,6 @@ My name is Sean XU, and I'm a postgraduate student at HKU. I am passionate about
 
 ## ⚡ Fun fact:
 
-I used to be a software development engineer, but now I want to explore new worlds.
+💻I used to be a software development engineer, but now I want to explore new worlds.
 
 😃 I am looking for opportunities to pursue my PhD degree in NLP, I know it is hard but I have to try.
