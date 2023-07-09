@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Sean XU, and I'm a postgraduate student at HKU. I am passionate about Artificial Intelligence.
+My name is **Sean XU**, and I'm a postgraduate student at HKU. I am passionate about Artificial Intelligence.
 
 ## 🔭 Currently working on:
 
@@ -22,7 +22,9 @@ My name is Sean XU, and I'm a postgraduate student at HKU. I am passionate about
 😃  I am looking for opportunities to pursue my PhD degree in NLP, I know it is hard but I have to try.
 
 
+    
+![Sean's GitHub stats](https://github-readme-stats-alpha-blush-33.vercel.app/api?username=seanxuu&show_icons=true&theme=default&count_private=true&layout=compact&line_height=28.7)[![Top Langs](https://github-readme-stats-alpha-blush-33.vercel.app/api/top-langs/?username=seanxuu&layout=donut)](https://github.com/sesanxuu/github-readme-stats)
+    
 
-![Sean's GitHub stats](https://github-readme-stats-alpha-blush-33.vercel.app/api?username=seanxuu&show_icons=true&theme=default&count_private=true&layout=compact)
 
-[![Top Langs](https://github-readme-stats-alpha-blush-33.vercel.app/api/top-langs/?username=seanxuu&layout=pie)](https://github.com/sesanxuu/github-readme-stats)
+
