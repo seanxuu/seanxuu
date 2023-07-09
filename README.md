@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is **Sean XU**, and I'm a postgraduate student at HKU. I am passionate about Artificial Intelligence.
+My name is **Sean XU**, and I'm a postgraduate student at [HKU](https://www.hku.hk/). I am passionate about Artificial Intelligence.
 
 ## 🔭 Currently working on:
 
