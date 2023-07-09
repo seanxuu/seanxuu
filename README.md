@@ -23,5 +23,4 @@ My name is Sean XU, and I'm a postgraduate student at HKU. I am passionate about
 
 
 
-![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanxuu&show_icons=true&theme=default&count_private=true&layout=compact)
-
+![Sean's GitHub stats](https://github-stats-ipnx2tsbk-seanxuu.vercel.app/api?username=seanxuu&show_icons=true&theme=default&count_private=true&layout=compact)
