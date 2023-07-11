@@ -23,7 +23,7 @@ My name is **Sean XU**, and I'm a postgraduate student at [HKU](https://www.hku.
 
 
     
-![Sean's GitHub stats](https://github-readme-stats-alpha-blush-33.vercel.app/api?username=seanxuu&show_icons=true&theme=default&count_private=true&layout=compact&line_height=28.7)[![Top Langs](https://github-readme-stats-alpha-blush-33.vercel.app/api/top-langs/?username=seanxuu&layout=donut)](https://github.com/sesanxuu/github-readme-stats)
+![Sean's GitHub stats](https://github-readme-stats-alpha-blush-33.vercel.app/api?username=seanxuu&show_icons=true&theme=default&layout=compact&line_height=28.7)[![Top Langs](https://github-readme-stats-alpha-blush-33.vercel.app/api/top-langs/?username=seanxuu&layout=donut)](https://github.com/sesanxuu/github-readme-stats)
     
 
 
