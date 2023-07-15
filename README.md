@@ -5,7 +5,7 @@ My name is **Sean XU**, and I'm a postgraduate student at [HKU](https://www.hku.
 ## 🔭 Currently working on:
 
 - Graduation Project about E-Coupon
-- Research Programme about Few-Shot Learning
+- Build a large language model
 
 ## 🌱 I'm currently learning:
 
