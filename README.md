@@ -23,6 +23,9 @@ My name is **Sean XU**, and I'm a postgraduate student at [HKU](https://www.hku.
 😃  I am looking for opportunities to pursue my PhD degree in NLP, I know it is hard but I have to try.
 
 
+## ✏️ My Skill Set
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
     
 ![Sean's GitHub stats](https://github-readme-stats-alpha-blush-33.vercel.app/api?username=seanxuu&show_icons=true&theme=default&layout=compact&line_height=28.8)
 [![Top Langs](https://github-readme-stats-alpha-blush-33.vercel.app/api/top-langs/?username=seanxuu&layout=donut&hide=php,jupyter%20notebook,javascript,css,scss)](https://github.com/sesanxuu/github-readme-stats)
