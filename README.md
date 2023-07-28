@@ -1,4 +1,5 @@
 # Hi there 👋
+![Profile Views](https://komarev.com/ghpvc/?username=seanxuu&color=brightgreen)
 
 My name is **Sean XU**, and I'm a postgraduate student at [HKU](https://www.hku.hk/). I am passionate about Artificial Intelligence.
 
@@ -25,3 +26,6 @@ My name is **Sean XU**, and I'm a postgraduate student at [HKU](https://www.hku.
     
 ![Sean's GitHub stats](https://github-readme-stats-alpha-blush-33.vercel.app/api?username=seanxuu&show_icons=true&theme=default&layout=compact&line_height=28.8)
 [![Top Langs](https://github-readme-stats-alpha-blush-33.vercel.app/api/top-langs/?username=seanxuu&layout=donut&hide=php,jupyter%20notebook,javascript,css,scss)](https://github.com/sesanxuu/github-readme-stats)
+
+
+
