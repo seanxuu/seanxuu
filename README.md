@@ -24,7 +24,14 @@ My name is **Sean XU**, and I'm a postgraduate student at [HKU](https://www.hku.
 
 
 ## ✏️ My Skill Set
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 🛠️ Languages
+![openjdk](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🛠️ Tech Stack
+![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
     
 ![Sean's GitHub stats](https://github-readme-stats-alpha-blush-33.vercel.app/api?username=seanxuu&show_icons=true&theme=default&layout=compact&line_height=28.8)
