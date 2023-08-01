@@ -33,7 +33,7 @@ My name is **Sean XU**, and I'm a postgraduate student at [HKU](https://www.hku.
 ![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![vuedotjs](https://img.shields.io/badge/vuedotjs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
 
 
 ### 🛠️ Tech Stack
@@ -44,6 +44,7 @@ My name is **Sean XU**, and I'm a postgraduate student at [HKU](https://www.hku.
 ![apachemaven](https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![apachekafka](https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![apachejmeter](https://img.shields.io/badge/jmeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![vuedotjs](https://img.shields.io/badge/vuedotjs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![wordpress](https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
     
