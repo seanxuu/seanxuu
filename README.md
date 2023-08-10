@@ -49,9 +49,6 @@ My name is **Sean XU**, and I'm a postgraduate student at [HKU](https://www.hku.
 ![wordpress](https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![mcdonald](https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white)
 
-    
-![Sean's GitHub stats](https://github-readme-stats-alpha-blush-33.vercel.app/api?username=seanxuu&show_icons=true&theme=default&layout=compact&line_height=28.8)
-[![Top Langs](https://github-readme-stats-alpha-blush-33.vercel.app/api/top-langs/?username=seanxuu&layout=donut&hide=php,jupyter%20notebook,javascript,css,scss)](https://github.com/sesanxuu/github-readme-stats)
 
-
+![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanxuu&count_private=true)
 
