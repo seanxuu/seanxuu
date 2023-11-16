@@ -1,16 +1,11 @@
 # Hi there 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=seanxuu&color=brightgreen)
 
-My name is **Sean XU**, and I'm a postgraduate student at [HKU](https://www.hku.hk/). I am passionate about Artificial Intelligence.
+My name is **Sean XU**, and I am a research engineer at [CAIR-CAS](https://www.cair-cas.org.hk/). I am passionate about Artificial Intelligence.
 
 ## 🔭 Currently working on:
 
-- Graduation Project about E-Coupon
-- Build a large language model
-
-## 🌱 I'm currently learning:
-
-- Natural Language Learning
+- Exploring the Feasibility of Medical AGI
 
 ## 📫 How to reach me:
 
