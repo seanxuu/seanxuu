@@ -1,6 +1,8 @@
 # Hi there 👋
 
-![Static Badge](https://img.shields.io/badge/Google%20Scholar-grey?style=%20for-the-badge&logo=googlescholar&cacheSeconds=3600&link=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3Drga2KroAAAAJ%26hl%3Den)
+
+
+
 
 
 My name is **Sean XU**, and I am a research engineer at [CAIR-CAS](https://www.cair-cas.org.hk/). I am passionate about Artificial Intelligence.
