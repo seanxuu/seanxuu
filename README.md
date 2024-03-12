@@ -49,8 +49,8 @@ My name is **Sean XU**, and I am a research engineer at [CAIR-CAS](https://www.c
 ![mcdonald](https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white)
 
 
-[^_^]:![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanxuu&count_private=true)
-![Sean's GitHub stats](https://github-readme-stats-alpha-blush-33.vercel.app/api?username=seanxuu&show_icons=true&theme=default&layout=compact&line_height=28.8)
+![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanxuu&count_private=true)
+[^_^]:![Sean's GitHub stats](https://github-readme-stats-alpha-blush-33.vercel.app/api?username=seanxuu&show_icons=true&theme=default&layout=compact&line_height=28.8)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=seanxuu&color=brightgreen)
