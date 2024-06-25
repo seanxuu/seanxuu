@@ -11,7 +11,7 @@ My name is **Sean XU**, and I am a research engineer at [CAIR-CAS](https://www.c
 
 - Exploring the Feasibility of Medical AGI
 
-## 📄 Publication
+## 📄 Publication:
 - MICCAI 2024: [Transforming Surgical Interventions with Embodied Intelligence for Ultrasound Robotics](https://seanxuu.github.io/EmbodiedUS/)  
 - ICIP 2024: [PWISeg: Point-based Weakly-supervised Instance Segmentation for Surgical Instruments](https://seanxuu.github.io/PWISeg/)  
 
