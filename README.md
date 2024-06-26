@@ -7,7 +7,7 @@
 
 My name is **Sean XU**, and I am a research engineer at [CAIR-CAS](https://www.cair-cas.org.hk/). I am passionate about Artificial Intelligence.
 
-## 🔭 Currently working on:
+## 🔭 Currently Working On:
 
 - Exploring the Feasibility of Medical AGI
 
@@ -15,11 +15,11 @@ My name is **Sean XU**, and I am a research engineer at [CAIR-CAS](https://www.c
 - MICCAI 2024: [Transforming Surgical Interventions with Embodied Intelligence for Ultrasound Robotics](https://seanxuu.github.io/EmbodiedUS/)  
 - ICIP 2024: [PWISeg: Point-based Weakly-supervised Instance Segmentation for Surgical Instruments](https://seanxuu.github.io/PWISeg/)  
 
-## 📫 How to reach me:
+## 📫 How To Reach Me:
 
 - Email: seanxu[at]connect[dot]hku[dot]hk
 
-## ⚡ Fun fact:
+## ⚡ Fun Facts:
 
 💻  I used to be a software development engineer, but now I want to explore new worlds.
 
