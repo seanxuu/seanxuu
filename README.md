@@ -9,7 +9,7 @@ My name is **Sean XU**, and I am a research engineer at [CAIR-CAS](https://www.c
 
 ## 🔭 Currently Working On:
 
-- Exploring the Feasibility of Medical AGI
+- Exploring the Feasibility of AGI
 
 ## 📄 Publication:
 - MICCAI 2024: [Transforming Surgical Interventions with Embodied Intelligence for Ultrasound Robotics](https://seanxuu.github.io/EmbodiedUS/)  
@@ -23,8 +23,7 @@ My name is **Sean XU**, and I am a research engineer at [CAIR-CAS](https://www.c
 
 💻  I used to be a software development engineer, but now I want to explore new worlds.
 
-😃  I am looking for opportunities to pursue my PhD degree in NLP, I know it is hard but I have to try.
-
+😃  I am looking for opportunities to pursue my PhD degree in AGI.
 
 ## ✏️ My Skill Set
 ### 🛠️ Languages
