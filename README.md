@@ -5,7 +5,7 @@
 
 
 
-My name is **Sean XU**, and I am a research engineer at [CAIR-CAS](https://www.cair-cas.org.hk/). I am passionate about Artificial Intelligence.
+My name is **Sean XU**, and I am a Research Engineer at [CAIR-CAS](https://www.cair-cas.org.hk/). I am passionate about Artificial Intelligence.
 
 ## 🔭 Currently Working On:
 
