@@ -21,9 +21,8 @@ My name is **Sean XU**, and I am a Research Engineer. I am passionate about Arti
 
 ## ⚡ Fun Facts:
 
-💻  I used to be a software development engineer, but now I want to explore new worlds.
+💻  I used to be a software development engineer, but now I am happy to explore new worlds.
 
-😃  I am looking for opportunities to pursue my PhD degree in AGI.
 
 ## ✏️ My Skill Set
 ### 🛠️ Languages
