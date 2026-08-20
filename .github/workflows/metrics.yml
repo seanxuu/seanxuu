@@ -40,9 +40,3 @@ jobs:
           plugin_notable_filter: "stars:>500"
           plugin_notable_from: organization
 
-          # 4. Issue / PR 跟踪
-          plugin_followup: yes
-          plugin_followup_sections: user, repositories
-          # 关闭深度维护者分析，避免要求 repo 高权限
-          plugin_followup_indepth: no
-
