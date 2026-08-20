@@ -1,29 +1,38 @@
 name: Metrics
 
 on:
-  # Refresh the profile card once a day.
-  schedule: [{ cron: "0 0 * * *" }]
-  # Allow an on-demand refresh from the Actions tab.
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
+
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Metrics embed
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: seanxuu
           filename: github-metrics.svg
 
-          # Keep the profile card readable while adding contribution signals.
-          base: header, activity, community
+          # 基础区块
+          base: header, community
 
-          # Notable contributions from public organization repositories.
-          # The filter is GitHub search syntax; only repositories with >500 stars
-          # are considered, so the card stays focused on well-known projects.
+          # 1. 最近活动
+          plugin_activity: yes
+          plugin_activity_limit: 8
+          plugin_activity_days: 30
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
+
+          # 2. 语言统计
+          plugin_languages: yes
+          plugin_languages_limit: 8
+
           plugin_notable: yes
           plugin_notable_indepth: yes
           plugin_notable_types: commit, pull_request, issue
@@ -31,11 +40,9 @@ jobs:
           plugin_notable_filter: "stars:>500"
           plugin_notable_from: organization
 
-          # Follow-up summarizes the user's issue/PR outcomes across repositories.
+          # 4. Issue / PR 跟踪
           plugin_followup: yes
           plugin_followup_sections: user, repositories
-          plugin_followup_indepth: yes
+          # 关闭深度维护者分析，避免要求 repo 高权限
+          plugin_followup_indepth: no
 
-          # Show earned GitHub achievements without inventing project claims.
-          plugin_achievements: yes
-          plugin_achievements_threshold: B
