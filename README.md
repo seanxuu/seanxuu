@@ -11,6 +11,12 @@ My name is **Sean XU**, and I am a Research Engineer. I am passionate about Arti
 
 - Exploring the Feasibility of AGI
 
+## 📊 Open Source Engineering
+
+![Metrics](./github-metrics.svg)
+
+Contribution metrics are generated from public GitHub activity and refreshed automatically.
+
 ## 📄 Publication:
 - MICCAI 2024: **Oral** [Transforming Surgical Interventions with Embodied Intelligence for Ultrasound Robotics](https://seanxuu.github.io/EmbodiedUS/)  
 - ICIP 2024: **Poster** [PWISeg: Point-based Weakly-supervised Instance Segmentation for Surgical Instruments](https://ieeexplore.ieee.org/document/10647933)  
