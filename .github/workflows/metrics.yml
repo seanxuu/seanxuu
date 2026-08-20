@@ -39,4 +39,14 @@ jobs:
           plugin_notable_repositories: yes
           plugin_notable_filter: "stars:>500"
           plugin_notable_from: organization
+          
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+          config_timezone: Asia/Hong_Kong
+
+
+
+ 
+
 
