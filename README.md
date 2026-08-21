@@ -4,12 +4,12 @@
 
 <p align="center">
   <a href="https://github.com/seanxuu">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=760&lines=AI+applications+%C2%B7+Java+%C2%B7+Full-stack+engineering;Open-source+contributor+to+OpenLibrary+and+Apache+Maka" alt="Typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?afont=JetBrains+Mono&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=760&lines=AI+applications+%C2%B7+Full-stack+engineering;Open-source+contributor+to+OpenLibrary+and+Apache+Maka" alt="Typing introduction" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/seanxuu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <!-- <a href="https://github.com/seanxuu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a> -->
   <a href="mailto:seanxu@connect.hku.hk"><img src="https://img.shields.io/badge/Email-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
