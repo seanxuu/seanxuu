@@ -50,9 +50,5 @@
 </details>
 
 <p align="center">
-  <sub>Building useful software, one careful contribution at a time.</sub>
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:111827&height=100&section=footer" alt="" />
 </p>
