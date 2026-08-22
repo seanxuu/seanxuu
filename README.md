@@ -12,9 +12,6 @@
   <a href="mailto:seanxu@connect.hku.hk"><img src="https://img.shields.io/badge/Email-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<details open>
-<summary><strong>▸ Open-source impact</strong></summary>
-<br />
 
 <div align="center">
   <picture>
@@ -29,9 +26,6 @@
 
 </details>
 
-<details open>
-<summary><strong>▸ Contribution rhythm</strong></summary>
-<br />
 
 <p align="center">
   <picture>
@@ -42,9 +36,6 @@
 </p>
 
 </details>
-<details open>
-<summary><strong>▸ Selected contributions</strong></summary>
-<br />
 
 <div align="center">
   <a href="https://github.com/internetarchive/openlibrary">
