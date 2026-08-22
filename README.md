@@ -42,14 +42,13 @@
 </p>
 
 </details>
-
 <details open>
 <summary><strong>▸ Selected contributions</strong></summary>
 <br />
 
 <div align="center">
   <a href="https://github.com/internetarchive/openlibrary">
-    <img height="200" src="https://github-stats-extended.vercel.app/api/pin/?username=seanxuu&repo=internetarchive/openlibrary&show_owner=true&show=prs_authored,prs_reviewed,issues_commented&theme=tokyonight&hide_border=true&border_radius=12" alt="OpenLibrary contribution card" />
+    <img height="200" src="https://github-stats-extended.vercel.app/api/pin/?username=seanxuu&repo=openai/openai-agents-python&show_owner=true&show=prs_authored,prs_reviewed,issues_commented&theme=tokyonight&hide_border=true&border_radius=12" alt="openai-agents-python card" />
   </a>
   <a href="https://github.com/apache/maka">
     <img height="200" src="https://github-stats-extended.vercel.app/api/pin/?username=seanxuu&repo=apache/maka&show_owner=true&show=prs_authored,prs_reviewed,issues_commented&theme=tokyonight&hide_border=true&border_radius=12" alt="Apache Maka contribution card" />
