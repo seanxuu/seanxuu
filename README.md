@@ -38,7 +38,7 @@
 </details>
 
 <div align="center">
-  <a href="https://github.com/internetarchive/openlibrary">
+  <a href="https://github.com/openai/openai-agents-python">
     <img height="200" src="https://github-stats-extended.vercel.app/api/pin/?username=seanxuu&repo=openai/openai-agents-python&show_owner=true&show=prs_authored,prs_reviewed,issues_commented&theme=tokyonight&hide_border=true&border_radius=12" alt="openai-agents-python card" />
   </a>
   <a href="https://github.com/apache/maka">
