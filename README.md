@@ -37,17 +37,6 @@
 
 </details>
 
-<div align="center">
-  <a href="https://github.com/openai/openai-agents-python">
-    <img height="200" src="https://github-stats-extended.vercel.app/api/pin/?username=seanxuu&repo=openai/openai-agents-python&show_owner=true&show=prs_authored,prs_reviewed,issues_commented&theme=tokyonight&hide_border=true&border_radius=12" alt="openai-agents-python card" />
-  </a>
-  <a href="https://github.com/apache/maka">
-    <img height="200" src="https://github-stats-extended.vercel.app/api/pin/?username=seanxuu&repo=apache/maka&show_owner=true&show=prs_authored,prs_reviewed,issues_commented&theme=tokyonight&hide_border=true&border_radius=12" alt="Apache Maka contribution card" />
-  </a>
-</div>
 
 </details>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:111827&height=100&section=footer" alt="" />
-</p>
