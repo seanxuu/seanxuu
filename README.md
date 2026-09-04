@@ -9,8 +9,13 @@
 </p>
 
 <p align="center">
-  <a href="mailto:seanxu@connect.hku.hk"><img src="https://img.shields.io/badge/Email-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <!-- <a href="mailto:seanxu@connect.hku.hk"><img src="https://img.shields.io/badge/Email-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a> -->
+  <a href="https://ghfind.com/u/seanxuu?ref=badge"><img src="https://ghfind.com/api/badge/seanxuu" alt="GitHub Roast score badge" /></a>
+
 </p>
+
+
+
 
 
 <div align="center">
